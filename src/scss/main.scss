@@ -1,0 +1,7 @@
+body div {
+    color: #000;
+
+    &:active {
+        color: red;
+    }
+}
